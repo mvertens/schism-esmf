@@ -1,0 +1,9 @@
+!---------------------------------------------------------------------
+! Users should add all user specific SCHISM_input parameter changes after
+! these comments as follows:
+!   parameter_name = new_parameter_value
+!
+! Parameters:
+!---------------------------------------------------------------------
+
+
